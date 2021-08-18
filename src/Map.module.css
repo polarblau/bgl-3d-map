@@ -1,0 +1,11 @@
+.mapContainer {
+  height: 100%;
+}
+
+.controlsContainer {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  width: 20vw;
+  z-index: 9999;
+}
